@@ -1,33 +1,33 @@
 # main links links
 main:
-  - title: "News"
-    url: /news/
+  - title: About Me
+    url: /aboutme/
 
-  - title: "Team"
-    url: /team/
+  - title: Research
+    url: /research/
 
   # - title: "Projects"
   #   url: /projects/
-  - title: "Research"
-    url: /research/
+  - title:
+    url:
 
-  - title: "Collaborations"
-    url: /collaborations/
+  - title:
+    url:
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Positions"
-    url: /positions/
+  - title: "ACHIEVEMENTS"
+    url: /achievements/
 
-  - title: "Resources"
-    url: /resources/
+  - title:
+    url:
 
-  - title: "Outreach"
-    url: /outreach/
+  - title:
+    url:
 
-  - title: "Talks"
-    url: /talks/
+  - title:
+    url:
 
   #- title: "Gallery"
   #  url: /gallery/
@@ -41,14 +41,14 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
 
-  - title: "Lab@IGC"
-    url: https://gulbenkian.pt/ciencia/researcher/rhenriques/
+  - title:
+    url:
 
-  - title: "Lab@UCL"
-    url: https://www.ucl.ac.uk/lmcb/users/ricardo-henriques
+  - title:
+    url:
 
-  - title: "Lab@Crick"
-    url: https://www.crick.ac.uk/partnerships/university-partnerships/our-university-attachments
+  - title:
+    url: 
 
 
 # Projs:
