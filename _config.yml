@@ -75,13 +75,13 @@ social:
 
 # Site Author
 author:
-  name             : "Ricardo Henriques"
+  name             : "Narendradev Nikhil"
   avatar           : "RH.jpg"
-  bio              : "Group Leader at Instituto Gulbenkian de Ciência, Honorary Professor at University College London and Francis Crick Institute"
-  location         : "Lisbon, PT"
+  bio              : "Graduate Student at IISER Thiruvananthapuram"
+  location         : "Kerala, India"
   employer         :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en"
-  email            : "rjhenriques@igc.gulbenkian.pt"
+  googlescholar    : "https://scholar.google.co.in/citations?user=z_fScPgAAAAJ&hl=en"
+  email            : "nikhilndev@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,13 +89,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HenriquesLab"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-2043-5234"
+  orcid            : "http://orcid.org/0000-0002-5641-3571"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
