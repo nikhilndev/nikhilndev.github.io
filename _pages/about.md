@@ -19,7 +19,7 @@ image_sliders:
 <body align="justify">
 ### Current Position
 
-This site is under construction. Please come back later! Third-year PhD student at IISER Thiruvananthapuram. BS-MS Dual Degree from IISER Thiruvananthapuram with
+I don't know how you reached here, but this site is under construction. Please come back later! Third-year PhD student at IISER Thiruvananthapuram. BS-MS Dual Degree from IISER Thiruvananthapuram with
 Biology as Major and Physics as minor degree.
 
 
