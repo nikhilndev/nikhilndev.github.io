@@ -17,16 +17,14 @@ image_sliders:
 </div>
 
 <body align="justify">
-### News
+### Current Position
 
 This site is under construction. Please come back later!
 
-### Who are we
+Third-year PhD student at IISER Thiruvananthapuram. BS-MS Dual Degree from IISER Thiruvananthapuram with
+Biology as Major and Physics as minor degree.
 
 
+### I am interested in..
 
-### The Laboratory
-
-
-
-### What we do
+In general, I am curious about how things around us work the way they do. Looking ahead to learn more and more about rare health disorders.
