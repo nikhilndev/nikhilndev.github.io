@@ -13,7 +13,7 @@ image_sliders:
 {::options parse_block_html="true" /}
 
 <div style="text-align: center">
-<img src='/images/campus.jpg' style='width: 75%'>
+<img src='/images/campus.jpg' style='width: 100%'>
 </div>
 
 <body align="justify">
@@ -30,7 +30,3 @@ This site is under construction. Please come back later!
 
 
 ### What we do
-
-
-
-### About the HenriquesLab logo
