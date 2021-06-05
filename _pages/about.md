@@ -13,7 +13,7 @@ image_sliders:
 {::options parse_block_html="true" /}
 
 <div style="text-align: center">
-<img src='/images/campus.jpg' style='width: 100%'>
+<img src='/images/campus.jpg' style='width: 125%'>
 </div>
 
 <body align="justify">
