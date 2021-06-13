@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: About Me
-    url: /aboutme/
+  #- title: About Me
+  #  url: /aboutme/
 
-  - title: Research
-    url: /research/
+#  - title: Research
+  #  url: /research/
 
   # - title: "Projects"
   #   url: /projects/
@@ -14,11 +14,11 @@ main:
   - title:
     url:
 
-  - title: "Publications"
+  #- title: "Publications"
     url: /publications/
 
-  - title: "ACHIEVEMENTS"
-    url: /achievements/
+  #- title: "ACHIEVEMENTS"
+  #  url: /achievements/
 
   - title:
     url:
@@ -32,11 +32,11 @@ main:
   #- title: "Gallery"
   #  url: /gallery/
 
-  - title: "Contact"
+#  - title: "Contact"
     url: /contact/
 
   - title: "CV"
-    url: https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf
+    url: https://henriqueslab.github.io/files/CV_Narendradev Nikhil.pdf
 
 #  - title: "Teaching"
 #    url: /teaching/
