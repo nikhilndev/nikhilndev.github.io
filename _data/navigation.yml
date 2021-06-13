@@ -8,26 +8,15 @@ main:
 
   # - title: "Projects"
   #   url: /projects/
-  - title:
-    url:
 
-  - title:
-    url:
 
   #- title: "Publications"
-    url: /publications/
+  #  url: /publications/
 
   #- title: "ACHIEVEMENTS"
   #  url: /achievements/
 
-  - title:
-    url:
-
-  - title:
-    url:
-
-  - title:
-    url:
+  
 
   #- title: "Gallery"
   #  url: /gallery/
