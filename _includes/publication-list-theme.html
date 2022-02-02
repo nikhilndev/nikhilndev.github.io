@@ -1,6 +1,0 @@
-<h2>  Publications: </h2>
-{% for post in site.publications reversed %}
-  {% if post.theme contains page.type %}
-    {% include archive-single-pub.html %}
-  {% endif %}
-{% endfor %}
